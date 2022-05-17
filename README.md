@@ -10,7 +10,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 *italic* **bold** ***bolditalic***
 
-[Google için tıkla](https://google.com)
+[Patika için tıkla](https://www.patika.dev/tr)
 
 ---
 
